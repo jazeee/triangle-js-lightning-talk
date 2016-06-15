@@ -62,5 +62,5 @@ db.chats.update({_id: foundChat._id}, {title: "Another test from Mongo"});
    * Can use Angular 1, React, or Blaze. Angular 2 is also available.
    * Meteor is quite modular, and you can create packages for your own use.
 * This project has a few extra packages that I am not really using. (FlowRouter, Autoform, Accounts). They are worth looking at, and can significantly simplify development.
-   * See https://github.com/jazeee/meteor-chat for an example chat application using these packages.
+   * See https://github.com/jazeee/meteor-chat for a simple example chat application using these packages.
    * Heroku app example: http://jazeee-meteor-chat.herokuapp.com
