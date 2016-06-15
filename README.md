@@ -4,7 +4,7 @@ Ten minutes of coding that I did at the beginning of an impromptu [Lightning Tal
 I used this to briefly talk about some basic concepts in MeteorJS. Just things I find cool.
 
 ### How to run
-Install MeteorJs 1.3.2
+Install MeteorJs 1.3.2 or above
 
 Options:
 * Run using `meteor --port 3030`
